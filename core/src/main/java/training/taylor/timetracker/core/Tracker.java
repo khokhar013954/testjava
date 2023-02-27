@@ -42,3 +42,7 @@ public class Tracker {
         return entries.get(index);
     }
 }
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-web</artifactId>
+</dependency>
